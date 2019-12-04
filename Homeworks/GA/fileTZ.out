@@ -1,0 +1,1129 @@
+234:: ERA{0}:
+0 component: (MEAN: 21.928000, DISP: 4707.070606)
+1 component: (MEAN: 112.416250, DISP: 22698.027767)
+234:: ERA{1}:
+0 component: (MEAN: 0.782000, DISP: 638.018236)
+1 component: (MEAN: 98.650250, DISP: 26199.549599)
+234:: ERA{2}:
+0 component: (MEAN: -0.660000, DISP: 7.509690)
+1 component: (MEAN: 6.955750, DISP: 4437.582498)
+234:: ERA{3}:
+0 component: (MEAN: 0.135000, DISP: 0.058275)
+1 component: (MEAN: 0.067500, DISP: 0.017269)
+234:: ERA{4}:
+0 component: (MEAN: 0.165000, DISP: 0.067275)
+1 component: (MEAN: 0.084000, DISP: 0.020214)
+234:: ERA{5}:
+0 component: (MEAN: 0.222000, DISP: 0.077796)
+1 component: (MEAN: 0.115350, DISP: 0.023820)
+234:: ERA{6}:
+0 component: (MEAN: 0.276000, DISP: 0.080064)
+1 component: (MEAN: 0.145050, DISP: 0.024907)
+234:: ERA{7}:
+0 component: (MEAN: 0.306000, DISP: 0.077364)
+1 component: (MEAN: 0.161550, DISP: 0.024313)
+234:: ERA{8}:
+0 component: (MEAN: 0.353100, DISP: 0.080814)
+1 component: (MEAN: 0.191235, DISP: 0.024621)
+234:: ERA{9}:
+0 component: (MEAN: 0.358800, DISP: 0.077406)
+1 component: (MEAN: 0.191235, DISP: 0.024621)
+234:: ERA{10}:
+0 component: (MEAN: 0.358530, DISP: 0.074623)
+1 component: (MEAN: 0.189750, DISP: 0.024250)
+234:: ERA{11}:
+0 component: (MEAN: 0.364530, DISP: 0.070943)
+1 component: (MEAN: 0.189750, DISP: 0.024250)
+234:: ERA{12}:
+0 component: (MEAN: 0.368577, DISP: 0.068833)
+1 component: (MEAN: 0.189750, DISP: 0.024250)
+234:: ERA{13}:
+0 component: (MEAN: 0.368577, DISP: 0.068833)
+1 component: (MEAN: 0.189750, DISP: 0.024250)
+234:: ERA{14}:
+0 component: (MEAN: 0.401088, DISP: 0.058237)
+1 component: (MEAN: 0.204452, DISP: 0.022063)
+234:: ERA{15}:
+0 component: (MEAN: 0.420690, DISP: 0.057519)
+1 component: (MEAN: 0.217965, DISP: 0.020730)
+234:: ERA{16}:
+0 component: (MEAN: 0.450150, DISP: 0.049747)
+1 component: (MEAN: 0.232980, DISP: 0.019448)
+234:: ERA{17}:
+0 component: (MEAN: 0.471480, DISP: 0.045278)
+1 component: (MEAN: 0.247847, DISP: 0.016711)
+234:: ERA{18}:
+0 component: (MEAN: 0.498780, DISP: 0.033728)
+1 component: (MEAN: 0.262995, DISP: 0.013731)
+234:: ERA{19}:
+0 component: (MEAN: 0.547893, DISP: 0.011780)
+1 component: (MEAN: 0.292994, DISP: 0.006141)
+234:: ERA{20}:
+0 component: (MEAN: 0.572433, DISP: 0.001396)
+1 component: (MEAN: 0.312150, DISP: 0.000750)
+234:: ERA{21}:
+0 component: (MEAN: 0.570060, DISP: 0.001401)
+1 component: (MEAN: 0.312330, DISP: 0.000745)
+234:: ERA{22}:
+0 component: (MEAN: 0.570600, DISP: 0.001375)
+1 component: (MEAN: 0.313830, DISP: 0.000671)
+234:: ERA{23}:
+0 component: (MEAN: 0.567579, DISP: 0.001671)
+1 component: (MEAN: 0.313251, DISP: 0.001212)
+234:: ERA{24}:
+0 component: (MEAN: 0.567770, DISP: 0.001682)
+1 component: (MEAN: 0.315642, DISP: 0.001387)
+234:: ERA{25}:
+0 component: (MEAN: 0.564930, DISP: 0.001652)
+1 component: (MEAN: 0.312997, DISP: 0.001444)
+234:: ERA{26}:
+0 component: (MEAN: 0.564930, DISP: 0.001652)
+1 component: (MEAN: 0.312997, DISP: 0.001444)
+234:: ERA{27}:
+0 component: (MEAN: 0.558523, DISP: 0.001707)
+1 component: (MEAN: 0.308753, DISP: 0.001694)
+234:: ERA{28}:
+0 component: (MEAN: 0.570394, DISP: 0.002484)
+1 component: (MEAN: 0.323532, DISP: 0.002651)
+234:: ERA{29}:
+0 component: (MEAN: 0.572677, DISP: 0.002124)
+1 component: (MEAN: 0.324993, DISP: 0.002735)
+234:: ERA{30}:
+0 component: (MEAN: 0.573095, DISP: 0.002125)
+1 component: (MEAN: 0.324249, DISP: 0.002672)
+234:: ERA{31}:
+0 component: (MEAN: 0.577193, DISP: 0.002257)
+1 component: (MEAN: 0.329252, DISP: 0.002931)
+234:: ERA{32}:
+0 component: (MEAN: 0.593652, DISP: 0.003958)
+1 component: (MEAN: 0.352703, DISP: 0.005307)
+234:: ERA{33}:
+0 component: (MEAN: 0.607081, DISP: 0.005943)
+1 component: (MEAN: 0.368968, DISP: 0.008521)
+234:: ERA{34}:
+0 component: (MEAN: 0.624922, DISP: 0.008594)
+1 component: (MEAN: 0.393257, DISP: 0.013717)
+234:: ERA{35}:
+0 component: (MEAN: 0.624922, DISP: 0.008594)
+1 component: (MEAN: 0.393257, DISP: 0.013717)
+234:: ERA{36}:
+0 component: (MEAN: 0.634091, DISP: 0.008802)
+1 component: (MEAN: 0.402667, DISP: 0.014445)
+234:: ERA{37}:
+0 component: (MEAN: 0.640100, DISP: 0.009317)
+1 component: (MEAN: 0.410371, DISP: 0.015288)
+234:: ERA{38}:
+0 component: (MEAN: 0.651713, DISP: 0.010387)
+1 component: (MEAN: 0.424638, DISP: 0.016808)
+234:: ERA{39}:
+0 component: (MEAN: 0.655529, DISP: 0.009198)
+1 component: (MEAN: 0.427747, DISP: 0.015091)
+234:: ERA{40}:
+0 component: (MEAN: 0.660169, DISP: 0.010104)
+1 component: (MEAN: 0.433696, DISP: 0.016690)
+234:: ERA{41}:
+0 component: (MEAN: 0.660169, DISP: 0.010104)
+1 component: (MEAN: 0.433696, DISP: 0.016690)
+234:: ERA{42}:
+0 component: (MEAN: 0.674232, DISP: 0.008401)
+1 component: (MEAN: 0.452015, DISP: 0.014163)
+234:: ERA{43}:
+0 component: (MEAN: 0.687106, DISP: 0.008303)
+1 component: (MEAN: 0.469617, DISP: 0.013903)
+234:: ERA{44}:
+0 component: (MEAN: 0.687106, DISP: 0.008303)
+1 component: (MEAN: 0.469617, DISP: 0.013903)
+234:: ERA{45}:
+0 component: (MEAN: 0.687106, DISP: 0.008303)
+1 component: (MEAN: 0.469617, DISP: 0.013903)
+234:: ERA{46}:
+0 component: (MEAN: 0.701087, DISP: 0.009350)
+1 component: (MEAN: 0.487599, DISP: 0.016169)
+234:: ERA{47}:
+0 component: (MEAN: 0.722986, DISP: 0.007009)
+1 component: (MEAN: 0.516193, DISP: 0.013291)
+234:: ERA{48}:
+0 component: (MEAN: 0.722986, DISP: 0.007009)
+1 component: (MEAN: 0.516193, DISP: 0.013291)
+234:: ERA{49}:
+0 component: (MEAN: 0.728746, DISP: 0.007539)
+1 component: (MEAN: 0.527229, DISP: 0.014972)
+234:: ERA{50}:
+0 component: (MEAN: 0.728746, DISP: 0.007539)
+1 component: (MEAN: 0.527229, DISP: 0.014972)
+234:: ERA{51}:
+0 component: (MEAN: 0.728746, DISP: 0.007539)
+1 component: (MEAN: 0.527229, DISP: 0.014972)
+234:: ERA{52}:
+0 component: (MEAN: 0.739500, DISP: 0.006967)
+1 component: (MEAN: 0.542680, DISP: 0.013413)
+234:: ERA{53}:
+0 component: (MEAN: 0.741506, DISP: 0.006887)
+1 component: (MEAN: 0.547355, DISP: 0.013129)
+234:: ERA{54}:
+0 component: (MEAN: 0.748222, DISP: 0.006424)
+1 component: (MEAN: 0.556844, DISP: 0.012709)
+234:: ERA{55}:
+0 component: (MEAN: 0.772125, DISP: 0.009045)
+1 component: (MEAN: 0.593127, DISP: 0.018300)
+234:: ERA{56}:
+0 component: (MEAN: 0.772125, DISP: 0.009045)
+1 component: (MEAN: 0.593127, DISP: 0.018300)
+234:: ERA{57}:
+0 component: (MEAN: 0.791412, DISP: 0.009117)
+1 component: (MEAN: 0.620830, DISP: 0.019269)
+234:: ERA{58}:
+0 component: (MEAN: 0.791412, DISP: 0.009117)
+1 component: (MEAN: 0.620830, DISP: 0.019269)
+234:: ERA{59}:
+0 component: (MEAN: 0.787577, DISP: 0.009115)
+1 component: (MEAN: 0.616944, DISP: 0.019316)
+234:: ERA{60}:
+0 component: (MEAN: 0.802805, DISP: 0.005817)
+1 component: (MEAN: 0.638764, DISP: 0.013104)
+234:: ERA{61}:
+0 component: (MEAN: 0.799819, DISP: 0.006048)
+1 component: (MEAN: 0.637061, DISP: 0.013971)
+234:: ERA{62}:
+0 component: (MEAN: 0.803446, DISP: 0.006682)
+1 component: (MEAN: 0.645863, DISP: 0.016246)
+234:: ERA{63}:
+0 component: (MEAN: 0.804630, DISP: 0.006826)
+1 component: (MEAN: 0.648948, DISP: 0.016828)
+234:: ERA{64}:
+0 component: (MEAN: 0.804630, DISP: 0.006826)
+1 component: (MEAN: 0.648948, DISP: 0.016828)
+234:: ERA{65}:
+0 component: (MEAN: 0.804630, DISP: 0.006826)
+1 component: (MEAN: 0.648948, DISP: 0.016828)
+234:: ERA{66}:
+0 component: (MEAN: 0.815073, DISP: 0.006608)
+1 component: (MEAN: 0.665663, DISP: 0.015849)
+234:: ERA{67}:
+0 component: (MEAN: 0.815073, DISP: 0.006608)
+1 component: (MEAN: 0.665663, DISP: 0.015849)
+234:: ERA{68}:
+0 component: (MEAN: 0.846563, DISP: 0.004012)
+1 component: (MEAN: 0.717130, DISP: 0.010806)
+234:: ERA{69}:
+0 component: (MEAN: 0.857252, DISP: 0.004270)
+1 component: (MEAN: 0.734721, DISP: 0.011852)
+234:: ERA{70}:
+0 component: (MEAN: 0.859797, DISP: 0.003717)
+1 component: (MEAN: 0.741156, DISP: 0.010445)
+234:: ERA{71}:
+0 component: (MEAN: 0.885870, DISP: 0.005290)
+1 component: (MEAN: 0.786834, DISP: 0.015517)
+234:: ERA{72}:
+0 component: (MEAN: 0.893600, DISP: 0.005259)
+1 component: (MEAN: 0.801748, DISP: 0.015706)
+234:: ERA{73}:
+0 component: (MEAN: 0.906817, DISP: 0.005775)
+1 component: (MEAN: 0.824864, DISP: 0.017518)
+234:: ERA{74}:
+0 component: (MEAN: 0.913662, DISP: 0.004924)
+1 component: (MEAN: 0.836362, DISP: 0.015040)
+234:: ERA{75}:
+0 component: (MEAN: 0.921584, DISP: 0.005499)
+1 component: (MEAN: 0.851998, DISP: 0.017015)
+234:: ERA{76}:
+0 component: (MEAN: 0.928966, DISP: 0.005022)
+1 component: (MEAN: 0.866308, DISP: 0.015587)
+234:: ERA{77}:
+0 component: (MEAN: 0.936265, DISP: 0.003987)
+1 component: (MEAN: 0.877461, DISP: 0.013079)
+234:: ERA{78}:
+0 component: (MEAN: 0.939875, DISP: 0.003485)
+1 component: (MEAN: 0.883664, DISP: 0.011617)
+234:: ERA{79}:
+0 component: (MEAN: 0.939875, DISP: 0.003485)
+1 component: (MEAN: 0.883664, DISP: 0.011617)
+234:: ERA{80}:
+0 component: (MEAN: 0.961965, DISP: 0.002679)
+1 component: (MEAN: 0.924210, DISP: 0.009569)
+234:: ERA{81}:
+0 component: (MEAN: 0.962822, DISP: 0.002585)
+1 component: (MEAN: 0.925925, DISP: 0.009172)
+234:: ERA{82}:
+0 component: (MEAN: 0.965358, DISP: 0.002523)
+1 component: (MEAN: 0.930628, DISP: 0.008921)
+234:: ERA{83}:
+0 component: (MEAN: 0.965358, DISP: 0.002523)
+1 component: (MEAN: 0.930628, DISP: 0.008921)
+234:: ERA{84}:
+0 component: (MEAN: 0.966726, DISP: 0.002486)
+1 component: (MEAN: 0.934455, DISP: 0.008804)
+234:: ERA{85}:
+0 component: (MEAN: 0.972793, DISP: 0.002034)
+1 component: (MEAN: 0.944544, DISP: 0.007572)
+234:: ERA{86}:
+0 component: (MEAN: 0.978794, DISP: 0.002309)
+1 component: (MEAN: 0.956560, DISP: 0.008477)
+234:: ERA{87}:
+0 component: (MEAN: 0.983042, DISP: 0.002037)
+1 component: (MEAN: 0.965838, DISP: 0.007671)
+234:: ERA{88}:
+0 component: (MEAN: 0.983042, DISP: 0.002037)
+1 component: (MEAN: 0.965838, DISP: 0.007671)
+234:: ERA{89}:
+0 component: (MEAN: 0.984301, DISP: 0.002075)
+1 component: (MEAN: 0.968653, DISP: 0.007798)
+234:: ERA{90}:
+0 component: (MEAN: 0.983753, DISP: 0.002080)
+1 component: (MEAN: 0.967736, DISP: 0.007816)
+234:: ERA{91}:
+0 component: (MEAN: 0.986311, DISP: 0.001658)
+1 component: (MEAN: 0.972266, DISP: 0.006438)
+234:: ERA{92}:
+0 component: (MEAN: 0.986311, DISP: 0.001658)
+1 component: (MEAN: 0.972266, DISP: 0.006438)
+234:: ERA{93}:
+0 component: (MEAN: 0.987128, DISP: 0.001682)
+1 component: (MEAN: 0.974013, DISP: 0.006520)
+234:: ERA{94}:
+0 component: (MEAN: 0.984617, DISP: 0.001744)
+1 component: (MEAN: 0.970138, DISP: 0.006538)
+234:: ERA{95}:
+0 component: (MEAN: 0.984617, DISP: 0.001744)
+1 component: (MEAN: 0.970138, DISP: 0.006538)
+234:: ERA{96}:
+0 component: (MEAN: 0.985497, DISP: 0.001767)
+1 component: (MEAN: 0.971879, DISP: 0.006665)
+234:: ERA{97}:
+0 component: (MEAN: 0.984578, DISP: 0.001420)
+1 component: (MEAN: 0.970085, DISP: 0.005452)
+234:: ERA{98}:
+0 component: (MEAN: 0.987651, DISP: 0.001250)
+1 component: (MEAN: 0.976131, DISP: 0.004818)
+234:: ERA{99}:
+0 component: (MEAN: 0.995531, DISP: 0.001395)
+1 component: (MEAN: 0.990894, DISP: 0.005433)
+234:: ERA{100}:
+0 component: (MEAN: 0.997398, DISP: 0.001324)
+1 component: (MEAN: 0.994719, DISP: 0.005130)
+234:: ERA{101}:
+0 component: (MEAN: 1.002082, DISP: 0.001101)
+1 component: (MEAN: 1.003863, DISP: 0.004286)
+234:: ERA{102}:
+0 component: (MEAN: 1.009660, DISP: 0.000919)
+1 component: (MEAN: 1.018933, DISP: 0.003720)
+234:: ERA{103}:
+0 component: (MEAN: 1.005195, DISP: 0.000918)
+1 component: (MEAN: 1.010022, DISP: 0.003643)
+234:: ERA{104}:
+0 component: (MEAN: 1.002468, DISP: 0.000836)
+1 component: (MEAN: 1.004743, DISP: 0.003352)
+234:: ERA{105}:
+0 component: (MEAN: 1.004022, DISP: 0.000803)
+1 component: (MEAN: 1.008151, DISP: 0.003190)
+234:: ERA{106}:
+0 component: (MEAN: 1.005367, DISP: 0.000745)
+1 component: (MEAN: 1.010751, DISP: 0.002968)
+234:: ERA{107}:
+0 component: (MEAN: 1.007148, DISP: 0.000680)
+1 component: (MEAN: 1.014278, DISP: 0.002772)
+234:: ERA{108}:
+0 component: (MEAN: 1.007582, DISP: 0.000623)
+1 component: (MEAN: 1.014973, DISP: 0.002548)
+234:: ERA{109}:
+0 component: (MEAN: 1.007573, DISP: 0.000574)
+1 component: (MEAN: 1.015184, DISP: 0.002351)
+234:: ERA{110}:
+0 component: (MEAN: 1.004147, DISP: 0.000348)
+1 component: (MEAN: 1.008341, DISP: 0.001359)
+234:: ERA{111}:
+0 component: (MEAN: 1.003127, DISP: 0.000296)
+1 component: (MEAN: 1.006265, DISP: 0.001159)
+234:: ERA{112}:
+0 component: (MEAN: 1.003743, DISP: 0.000313)
+1 component: (MEAN: 1.007813, DISP: 0.001240)
+234:: ERA{113}:
+0 component: (MEAN: 0.995518, DISP: 0.000155)
+1 component: (MEAN: 0.991441, DISP: 0.000610)
+234:: ERA{114}:
+0 component: (MEAN: 0.998963, DISP: 0.000134)
+1 component: (MEAN: 0.998290, DISP: 0.000527)
+234:: ERA{115}:
+0 component: (MEAN: 0.998660, DISP: 0.000092)
+1 component: (MEAN: 0.997725, DISP: 0.000361)
+234:: ERA{116}:
+0 component: (MEAN: 0.999468, DISP: 0.000084)
+1 component: (MEAN: 0.999150, DISP: 0.000332)
+234:: ERA{117}:
+0 component: (MEAN: 1.000312, DISP: 0.000077)
+1 component: (MEAN: 1.000707, DISP: 0.000303)
+234:: ERA{118}:
+0 component: (MEAN: 1.000196, DISP: 0.000075)
+1 component: (MEAN: 1.000471, DISP: 0.000296)
+234:: ERA{119}:
+0 component: (MEAN: 0.999526, DISP: 0.000055)
+1 component: (MEAN: 0.999270, DISP: 0.000218)
+234:: ERA{120}:
+0 component: (MEAN: 0.999332, DISP: 0.000055)
+1 component: (MEAN: 0.998833, DISP: 0.000218)
+234:: ERA{121}:
+0 component: (MEAN: 0.999526, DISP: 0.000053)
+1 component: (MEAN: 0.999198, DISP: 0.000209)
+234:: ERA{122}:
+0 component: (MEAN: 0.999526, DISP: 0.000053)
+1 component: (MEAN: 0.999198, DISP: 0.000209)
+234:: ERA{123}:
+0 component: (MEAN: 0.999802, DISP: 0.000053)
+1 component: (MEAN: 0.999753, DISP: 0.000209)
+234:: ERA{124}:
+0 component: (MEAN: 0.999257, DISP: 0.000046)
+1 component: (MEAN: 0.998694, DISP: 0.000179)
+234:: ERA{125}:
+0 component: (MEAN: 0.998998, DISP: 0.000043)
+1 component: (MEAN: 0.998203, DISP: 0.000170)
+234:: ERA{126}:
+0 component: (MEAN: 0.999596, DISP: 0.000045)
+1 component: (MEAN: 0.999398, DISP: 0.000180)
+234:: ERA{127}:
+0 component: (MEAN: 0.998469, DISP: 0.000038)
+1 component: (MEAN: 0.997076, DISP: 0.000149)
+234:: ERA{128}:
+0 component: (MEAN: 0.998742, DISP: 0.000039)
+1 component: (MEAN: 0.997608, DISP: 0.000155)
+234:: ERA{129}:
+0 component: (MEAN: 0.998720, DISP: 0.000039)
+1 component: (MEAN: 0.997553, DISP: 0.000154)
+234:: ERA{130}:
+0 component: (MEAN: 0.999447, DISP: 0.000043)
+1 component: (MEAN: 0.998971, DISP: 0.000170)
+234:: ERA{131}:
+0 component: (MEAN: 0.999680, DISP: 0.000042)
+1 component: (MEAN: 0.999437, DISP: 0.000164)
+234:: ERA{132}:
+0 component: (MEAN: 0.999684, DISP: 0.000041)
+1 component: (MEAN: 0.999459, DISP: 0.000162)
+234:: ERA{133}:
+0 component: (MEAN: 0.999684, DISP: 0.000041)
+1 component: (MEAN: 0.999459, DISP: 0.000162)
+234:: ERA{134}:
+0 component: (MEAN: 1.000301, DISP: 0.000015)
+1 component: (MEAN: 1.000668, DISP: 0.000062)
+234:: ERA{135}:
+0 component: (MEAN: 1.000729, DISP: 0.000015)
+1 component: (MEAN: 1.001495, DISP: 0.000059)
+234:: ERA{136}:
+0 component: (MEAN: 1.000729, DISP: 0.000015)
+1 component: (MEAN: 1.001495, DISP: 0.000059)
+234:: ERA{137}:
+0 component: (MEAN: 1.000531, DISP: 0.000015)
+1 component: (MEAN: 1.001084, DISP: 0.000062)
+234:: ERA{138}:
+0 component: (MEAN: 1.000356, DISP: 0.000014)
+1 component: (MEAN: 1.000724, DISP: 0.000057)
+234:: ERA{139}:
+0 component: (MEAN: 0.999856, DISP: 0.000013)
+1 component: (MEAN: 0.999733, DISP: 0.000055)
+234:: ERA{140}:
+0 component: (MEAN: 0.999856, DISP: 0.000013)
+1 component: (MEAN: 0.999733, DISP: 0.000055)
+234:: ERA{141}:
+0 component: (MEAN: 0.999779, DISP: 0.000013)
+1 component: (MEAN: 0.999555, DISP: 0.000052)
+234:: ERA{142}:
+0 component: (MEAN: 1.000035, DISP: 0.000012)
+1 component: (MEAN: 1.000079, DISP: 0.000048)
+234:: ERA{143}:
+0 component: (MEAN: 1.000035, DISP: 0.000012)
+1 component: (MEAN: 1.000079, DISP: 0.000048)
+234:: ERA{144}:
+0 component: (MEAN: 1.000035, DISP: 0.000012)
+1 component: (MEAN: 1.000079, DISP: 0.000048)
+234:: ERA{145}:
+0 component: (MEAN: 1.000922, DISP: 0.000011)
+1 component: (MEAN: 1.001847, DISP: 0.000043)
+234:: ERA{146}:
+0 component: (MEAN: 1.000922, DISP: 0.000011)
+1 component: (MEAN: 1.001847, DISP: 0.000043)
+234:: ERA{147}:
+0 component: (MEAN: 1.000412, DISP: 0.000009)
+1 component: (MEAN: 1.000840, DISP: 0.000038)
+234:: ERA{148}:
+0 component: (MEAN: 0.999936, DISP: 0.000007)
+1 component: (MEAN: 0.999848, DISP: 0.000027)
+234:: ERA{149}:
+0 component: (MEAN: 0.999936, DISP: 0.000007)
+1 component: (MEAN: 0.999848, DISP: 0.000027)
+234:: ERA{150}:
+0 component: (MEAN: 0.999897, DISP: 0.000004)
+1 component: (MEAN: 0.999827, DISP: 0.000016)
+234:: ERA{151}:
+0 component: (MEAN: 0.999897, DISP: 0.000004)
+1 component: (MEAN: 0.999827, DISP: 0.000016)
+234:: ERA{152}:
+0 component: (MEAN: 0.999897, DISP: 0.000004)
+1 component: (MEAN: 0.999827, DISP: 0.000016)
+234:: ERA{153}:
+0 component: (MEAN: 1.000046, DISP: 0.000004)
+1 component: (MEAN: 1.000094, DISP: 0.000015)
+234:: ERA{154}:
+0 component: (MEAN: 1.000046, DISP: 0.000004)
+1 component: (MEAN: 1.000094, DISP: 0.000015)
+234:: ERA{155}:
+0 component: (MEAN: 1.000046, DISP: 0.000004)
+1 component: (MEAN: 1.000094, DISP: 0.000015)
+234:: ERA{156}:
+0 component: (MEAN: 0.999923, DISP: 0.000004)
+1 component: (MEAN: 0.999895, DISP: 0.000016)
+234:: ERA{157}:
+0 component: (MEAN: 1.000112, DISP: 0.000004)
+1 component: (MEAN: 1.000242, DISP: 0.000017)
+234:: ERA{158}:
+0 component: (MEAN: 1.000073, DISP: 0.000004)
+1 component: (MEAN: 1.000178, DISP: 0.000016)
+234:: ERA{159}:
+0 component: (MEAN: 1.000024, DISP: 0.000003)
+1 component: (MEAN: 1.000122, DISP: 0.000014)
+234:: ERA{160}:
+0 component: (MEAN: 1.000024, DISP: 0.000003)
+1 component: (MEAN: 1.000122, DISP: 0.000014)
+234:: ERA{161}:
+0 component: (MEAN: 1.000396, DISP: 0.000002)
+1 component: (MEAN: 1.000833, DISP: 0.000010)
+234:: ERA{162}:
+0 component: (MEAN: 1.000329, DISP: 0.000002)
+1 component: (MEAN: 1.000695, DISP: 0.000010)
+234:: ERA{163}:
+0 component: (MEAN: 1.000370, DISP: 0.000002)
+1 component: (MEAN: 1.000776, DISP: 0.000010)
+234:: ERA{164}:
+0 component: (MEAN: 1.000326, DISP: 0.000002)
+1 component: (MEAN: 1.000682, DISP: 0.000009)
+234:: ERA{165}:
+0 component: (MEAN: 1.000187, DISP: 0.000002)
+1 component: (MEAN: 1.000397, DISP: 0.000009)
+234:: ERA{166}:
+0 component: (MEAN: 1.000178, DISP: 0.000002)
+1 component: (MEAN: 1.000391, DISP: 0.000009)
+234:: ERA{167}:
+0 component: (MEAN: 1.000023, DISP: 0.000002)
+1 component: (MEAN: 1.000087, DISP: 0.000007)
+234:: ERA{168}:
+0 component: (MEAN: 1.000023, DISP: 0.000002)
+1 component: (MEAN: 1.000087, DISP: 0.000007)
+234:: ERA{169}:
+0 component: (MEAN: 1.000034, DISP: 0.000002)
+1 component: (MEAN: 1.000116, DISP: 0.000007)
+234:: ERA{170}:
+0 component: (MEAN: 1.000182, DISP: 0.000002)
+1 component: (MEAN: 1.000420, DISP: 0.000006)
+234:: ERA{171}:
+0 component: (MEAN: 0.999828, DISP: 0.000001)
+1 component: (MEAN: 0.999695, DISP: 0.000005)
+234:: ERA{172}:
+0 component: (MEAN: 0.999796, DISP: 0.000001)
+1 component: (MEAN: 0.999629, DISP: 0.000005)
+234:: ERA{173}:
+0 component: (MEAN: 0.999867, DISP: 0.000001)
+1 component: (MEAN: 0.999774, DISP: 0.000005)
+234:: ERA{174}:
+0 component: (MEAN: 0.999867, DISP: 0.000001)
+1 component: (MEAN: 0.999774, DISP: 0.000005)
+234:: ERA{175}:
+0 component: (MEAN: 0.999867, DISP: 0.000001)
+1 component: (MEAN: 0.999774, DISP: 0.000005)
+234:: ERA{176}:
+0 component: (MEAN: 1.000205, DISP: 0.000001)
+1 component: (MEAN: 1.000440, DISP: 0.000004)
+234:: ERA{177}:
+0 component: (MEAN: 1.000205, DISP: 0.000001)
+1 component: (MEAN: 1.000440, DISP: 0.000004)
+234:: ERA{178}:
+0 component: (MEAN: 1.000323, DISP: 0.000001)
+1 component: (MEAN: 1.000678, DISP: 0.000003)
+234:: ERA{179}:
+0 component: (MEAN: 1.000211, DISP: 0.000001)
+1 component: (MEAN: 1.000437, DISP: 0.000004)
+234:: ERA{180}:
+0 component: (MEAN: 1.000038, DISP: 0.000001)
+1 component: (MEAN: 1.000081, DISP: 0.000003)
+234:: ERA{181}:
+0 component: (MEAN: 1.000066, DISP: 0.000001)
+1 component: (MEAN: 1.000129, DISP: 0.000003)
+234:: ERA{182}:
+0 component: (MEAN: 1.000066, DISP: 0.000001)
+1 component: (MEAN: 1.000129, DISP: 0.000003)
+234:: ERA{183}:
+0 component: (MEAN: 1.000176, DISP: 0.000001)
+1 component: (MEAN: 1.000341, DISP: 0.000003)
+234:: ERA{184}:
+0 component: (MEAN: 1.000176, DISP: 0.000001)
+1 component: (MEAN: 1.000341, DISP: 0.000003)
+234:: ERA{185}:
+0 component: (MEAN: 1.000143, DISP: 0.000001)
+1 component: (MEAN: 1.000287, DISP: 0.000003)
+234:: ERA{186}:
+0 component: (MEAN: 1.000143, DISP: 0.000001)
+1 component: (MEAN: 1.000287, DISP: 0.000003)
+234:: ERA{187}:
+0 component: (MEAN: 1.000097, DISP: 0.000001)
+1 component: (MEAN: 1.000188, DISP: 0.000003)
+234:: ERA{188}:
+0 component: (MEAN: 1.000276, DISP: 0.000000)
+1 component: (MEAN: 1.000547, DISP: 0.000002)
+---- 239:: DISP = 0. Scattered. ERA{188/376} ----------
+234:: ERA{189}:
+0 component: (MEAN: 1.000219, DISP: 0.000000)
+1 component: (MEAN: 1.000436, DISP: 0.000001)
+234:: ERA{190}:
+0 component: (MEAN: 1.000219, DISP: 0.000000)
+1 component: (MEAN: 1.000436, DISP: 0.000001)
+234:: ERA{191}:
+0 component: (MEAN: 1.000219, DISP: 0.000000)
+1 component: (MEAN: 1.000436, DISP: 0.000001)
+234:: ERA{192}:
+0 component: (MEAN: 1.000219, DISP: 0.000000)
+1 component: (MEAN: 1.000436, DISP: 0.000001)
+234:: ERA{193}:
+0 component: (MEAN: 1.000257, DISP: 0.000000)
+1 component: (MEAN: 1.000516, DISP: 0.000001)
+234:: ERA{194}:
+0 component: (MEAN: 1.000198, DISP: 0.000000)
+1 component: (MEAN: 1.000394, DISP: 0.000001)
+234:: ERA{195}:
+0 component: (MEAN: 1.000138, DISP: 0.000000)
+1 component: (MEAN: 1.000271, DISP: 0.000001)
+234:: ERA{196}:
+0 component: (MEAN: 1.000138, DISP: 0.000000)
+1 component: (MEAN: 1.000271, DISP: 0.000001)
+234:: ERA{197}:
+0 component: (MEAN: 1.000149, DISP: 0.000000)
+1 component: (MEAN: 1.000301, DISP: 0.000001)
+234:: ERA{198}:
+0 component: (MEAN: 1.000145, DISP: 0.000000)
+1 component: (MEAN: 1.000292, DISP: 0.000001)
+234:: ERA{199}:
+0 component: (MEAN: 1.000009, DISP: 0.000000)
+1 component: (MEAN: 1.000026, DISP: 0.000001)
+234:: ERA{200}:
+0 component: (MEAN: 0.999974, DISP: 0.000000)
+1 component: (MEAN: 0.999952, DISP: 0.000001)
+234:: ERA{201}:
+0 component: (MEAN: 0.999986, DISP: 0.000000)
+1 component: (MEAN: 0.999968, DISP: 0.000001)
+234:: ERA{202}:
+0 component: (MEAN: 1.000030, DISP: 0.000000)
+1 component: (MEAN: 1.000064, DISP: 0.000001)
+234:: ERA{203}:
+0 component: (MEAN: 1.000020, DISP: 0.000000)
+1 component: (MEAN: 1.000054, DISP: 0.000001)
+234:: ERA{204}:
+0 component: (MEAN: 1.000004, DISP: 0.000000)
+1 component: (MEAN: 1.000019, DISP: 0.000000)
+234:: ERA{205}:
+0 component: (MEAN: 1.000014, DISP: 0.000000)
+1 component: (MEAN: 1.000044, DISP: 0.000000)
+234:: ERA{206}:
+0 component: (MEAN: 1.000014, DISP: 0.000000)
+1 component: (MEAN: 1.000044, DISP: 0.000000)
+234:: ERA{207}:
+0 component: (MEAN: 1.000014, DISP: 0.000000)
+1 component: (MEAN: 1.000044, DISP: 0.000000)
+234:: ERA{208}:
+0 component: (MEAN: 1.000044, DISP: 0.000000)
+1 component: (MEAN: 1.000105, DISP: 0.000000)
+234:: ERA{209}:
+0 component: (MEAN: 1.000044, DISP: 0.000000)
+1 component: (MEAN: 1.000105, DISP: 0.000000)
+234:: ERA{210}:
+0 component: (MEAN: 1.000020, DISP: 0.000000)
+1 component: (MEAN: 1.000053, DISP: 0.000000)
+234:: ERA{211}:
+0 component: (MEAN: 1.000020, DISP: 0.000000)
+1 component: (MEAN: 1.000053, DISP: 0.000000)
+234:: ERA{212}:
+0 component: (MEAN: 1.000035, DISP: 0.000000)
+1 component: (MEAN: 1.000084, DISP: 0.000000)
+234:: ERA{213}:
+0 component: (MEAN: 1.000042, DISP: 0.000000)
+1 component: (MEAN: 1.000096, DISP: 0.000000)
+234:: ERA{214}:
+0 component: (MEAN: 1.000022, DISP: 0.000000)
+1 component: (MEAN: 1.000056, DISP: 0.000000)
+234:: ERA{215}:
+0 component: (MEAN: 1.000034, DISP: 0.000000)
+1 component: (MEAN: 1.000081, DISP: 0.000000)
+234:: ERA{216}:
+0 component: (MEAN: 1.000056, DISP: 0.000000)
+1 component: (MEAN: 1.000122, DISP: 0.000000)
+234:: ERA{217}:
+0 component: (MEAN: 1.000045, DISP: 0.000000)
+1 component: (MEAN: 1.000098, DISP: 0.000000)
+234:: ERA{218}:
+0 component: (MEAN: 1.000045, DISP: 0.000000)
+1 component: (MEAN: 1.000098, DISP: 0.000000)
+234:: ERA{219}:
+0 component: (MEAN: 1.000045, DISP: 0.000000)
+1 component: (MEAN: 1.000098, DISP: 0.000000)
+234:: ERA{220}:
+0 component: (MEAN: 1.000060, DISP: 0.000000)
+1 component: (MEAN: 1.000127, DISP: 0.000000)
+234:: ERA{221}:
+0 component: (MEAN: 1.000038, DISP: 0.000000)
+1 component: (MEAN: 1.000077, DISP: 0.000000)
+234:: ERA{222}:
+0 component: (MEAN: 1.000026, DISP: 0.000000)
+1 component: (MEAN: 1.000050, DISP: 0.000000)
+234:: ERA{223}:
+0 component: (MEAN: 1.000004, DISP: 0.000000)
+1 component: (MEAN: 1.000004, DISP: 0.000000)
+234:: ERA{224}:
+0 component: (MEAN: 1.000004, DISP: 0.000000)
+1 component: (MEAN: 1.000004, DISP: 0.000000)
+234:: ERA{225}:
+0 component: (MEAN: 1.000004, DISP: 0.000000)
+1 component: (MEAN: 1.000004, DISP: 0.000000)
+234:: ERA{226}:
+0 component: (MEAN: 1.000004, DISP: 0.000000)
+1 component: (MEAN: 1.000004, DISP: 0.000000)
+234:: ERA{227}:
+0 component: (MEAN: 1.000004, DISP: 0.000000)
+1 component: (MEAN: 1.000004, DISP: 0.000000)
+234:: ERA{228}:
+0 component: (MEAN: 1.000021, DISP: 0.000000)
+1 component: (MEAN: 1.000038, DISP: 0.000000)
+234:: ERA{229}:
+0 component: (MEAN: 1.000042, DISP: 0.000000)
+1 component: (MEAN: 1.000083, DISP: 0.000000)
+234:: ERA{230}:
+0 component: (MEAN: 1.000067, DISP: 0.000000)
+1 component: (MEAN: 1.000136, DISP: 0.000000)
+234:: ERA{231}:
+0 component: (MEAN: 1.000068, DISP: 0.000000)
+1 component: (MEAN: 1.000141, DISP: 0.000000)
+234:: ERA{232}:
+0 component: (MEAN: 1.000062, DISP: 0.000000)
+1 component: (MEAN: 1.000130, DISP: 0.000000)
+234:: ERA{233}:
+0 component: (MEAN: 1.000062, DISP: 0.000000)
+1 component: (MEAN: 1.000130, DISP: 0.000000)
+234:: ERA{234}:
+0 component: (MEAN: 1.000076, DISP: 0.000000)
+1 component: (MEAN: 1.000158, DISP: 0.000000)
+234:: ERA{235}:
+0 component: (MEAN: 1.000059, DISP: 0.000000)
+1 component: (MEAN: 1.000120, DISP: 0.000000)
+234:: ERA{236}:
+0 component: (MEAN: 1.000053, DISP: 0.000000)
+1 component: (MEAN: 1.000108, DISP: 0.000000)
+234:: ERA{237}:
+0 component: (MEAN: 1.000046, DISP: 0.000000)
+1 component: (MEAN: 1.000091, DISP: 0.000000)
+234:: ERA{238}:
+0 component: (MEAN: 1.000032, DISP: 0.000000)
+1 component: (MEAN: 1.000061, DISP: 0.000000)
+234:: ERA{239}:
+0 component: (MEAN: 1.000032, DISP: 0.000000)
+1 component: (MEAN: 1.000060, DISP: 0.000000)
+234:: ERA{240}:
+0 component: (MEAN: 1.000016, DISP: 0.000000)
+1 component: (MEAN: 1.000027, DISP: 0.000000)
+234:: ERA{241}:
+0 component: (MEAN: 1.000014, DISP: 0.000000)
+1 component: (MEAN: 1.000021, DISP: 0.000000)
+234:: ERA{242}:
+0 component: (MEAN: 1.000024, DISP: 0.000000)
+1 component: (MEAN: 1.000043, DISP: 0.000000)
+234:: ERA{243}:
+0 component: (MEAN: 1.000022, DISP: 0.000000)
+1 component: (MEAN: 1.000040, DISP: 0.000000)
+234:: ERA{244}:
+0 component: (MEAN: 1.000015, DISP: 0.000000)
+1 component: (MEAN: 1.000027, DISP: 0.000000)
+234:: ERA{245}:
+0 component: (MEAN: 1.000021, DISP: 0.000000)
+1 component: (MEAN: 1.000040, DISP: 0.000000)
+234:: ERA{246}:
+0 component: (MEAN: 1.000023, DISP: 0.000000)
+1 component: (MEAN: 1.000045, DISP: 0.000000)
+234:: ERA{247}:
+0 component: (MEAN: 1.000023, DISP: 0.000000)
+1 component: (MEAN: 1.000045, DISP: 0.000000)
+234:: ERA{248}:
+0 component: (MEAN: 1.000023, DISP: 0.000000)
+1 component: (MEAN: 1.000045, DISP: 0.000000)
+234:: ERA{249}:
+0 component: (MEAN: 1.000054, DISP: 0.000000)
+1 component: (MEAN: 1.000107, DISP: 0.000000)
+234:: ERA{250}:
+0 component: (MEAN: 1.000054, DISP: 0.000000)
+1 component: (MEAN: 1.000107, DISP: 0.000000)
+234:: ERA{251}:
+0 component: (MEAN: 1.000035, DISP: 0.000000)
+1 component: (MEAN: 1.000068, DISP: 0.000000)
+234:: ERA{252}:
+0 component: (MEAN: 1.000035, DISP: 0.000000)
+1 component: (MEAN: 1.000068, DISP: 0.000000)
+234:: ERA{253}:
+0 component: (MEAN: 1.000018, DISP: 0.000000)
+1 component: (MEAN: 1.000035, DISP: 0.000000)
+234:: ERA{254}:
+0 component: (MEAN: 1.000023, DISP: 0.000000)
+1 component: (MEAN: 1.000044, DISP: 0.000000)
+234:: ERA{255}:
+0 component: (MEAN: 1.000024, DISP: 0.000000)
+1 component: (MEAN: 1.000047, DISP: 0.000000)
+234:: ERA{256}:
+0 component: (MEAN: 1.000017, DISP: 0.000000)
+1 component: (MEAN: 1.000033, DISP: 0.000000)
+234:: ERA{257}:
+0 component: (MEAN: 1.000027, DISP: 0.000000)
+1 component: (MEAN: 1.000053, DISP: 0.000000)
+234:: ERA{258}:
+0 component: (MEAN: 1.000025, DISP: 0.000000)
+1 component: (MEAN: 1.000049, DISP: 0.000000)
+234:: ERA{259}:
+0 component: (MEAN: 1.000032, DISP: 0.000000)
+1 component: (MEAN: 1.000062, DISP: 0.000000)
+234:: ERA{260}:
+0 component: (MEAN: 1.000019, DISP: 0.000000)
+1 component: (MEAN: 1.000037, DISP: 0.000000)
+234:: ERA{261}:
+0 component: (MEAN: 1.000015, DISP: 0.000000)
+1 component: (MEAN: 1.000028, DISP: 0.000000)
+234:: ERA{262}:
+0 component: (MEAN: 1.000015, DISP: 0.000000)
+1 component: (MEAN: 1.000028, DISP: 0.000000)
+234:: ERA{263}:
+0 component: (MEAN: 1.000006, DISP: 0.000000)
+1 component: (MEAN: 1.000011, DISP: 0.000000)
+234:: ERA{264}:
+0 component: (MEAN: 1.000007, DISP: 0.000000)
+1 component: (MEAN: 1.000013, DISP: 0.000000)
+234:: ERA{265}:
+0 component: (MEAN: 1.000007, DISP: 0.000000)
+1 component: (MEAN: 1.000013, DISP: 0.000000)
+234:: ERA{266}:
+0 component: (MEAN: 1.000005, DISP: 0.000000)
+1 component: (MEAN: 1.000009, DISP: 0.000000)
+234:: ERA{267}:
+0 component: (MEAN: 1.000007, DISP: 0.000000)
+1 component: (MEAN: 1.000013, DISP: 0.000000)
+234:: ERA{268}:
+0 component: (MEAN: 1.000008, DISP: 0.000000)
+1 component: (MEAN: 1.000015, DISP: 0.000000)
+234:: ERA{269}:
+0 component: (MEAN: 1.000006, DISP: 0.000000)
+1 component: (MEAN: 1.000012, DISP: 0.000000)
+234:: ERA{270}:
+0 component: (MEAN: 1.000003, DISP: 0.000000)
+1 component: (MEAN: 1.000005, DISP: 0.000000)
+234:: ERA{271}:
+0 component: (MEAN: 1.000003, DISP: 0.000000)
+1 component: (MEAN: 1.000005, DISP: 0.000000)
+234:: ERA{272}:
+0 component: (MEAN: 1.000012, DISP: 0.000000)
+1 component: (MEAN: 1.000024, DISP: 0.000000)
+234:: ERA{273}:
+0 component: (MEAN: 1.000005, DISP: 0.000000)
+1 component: (MEAN: 1.000010, DISP: 0.000000)
+234:: ERA{274}:
+0 component: (MEAN: 0.999999, DISP: 0.000000)
+1 component: (MEAN: 0.999999, DISP: 0.000000)
+234:: ERA{275}:
+0 component: (MEAN: 0.999999, DISP: 0.000000)
+1 component: (MEAN: 0.999999, DISP: 0.000000)
+234:: ERA{276}:
+0 component: (MEAN: 0.999999, DISP: 0.000000)
+1 component: (MEAN: 0.999999, DISP: 0.000000)
+234:: ERA{277}:
+0 component: (MEAN: 0.999999, DISP: 0.000000)
+1 component: (MEAN: 0.999999, DISP: 0.000000)
+234:: ERA{278}:
+0 component: (MEAN: 0.999996, DISP: 0.000000)
+1 component: (MEAN: 0.999992, DISP: 0.000000)
+234:: ERA{279}:
+0 component: (MEAN: 0.999997, DISP: 0.000000)
+1 component: (MEAN: 0.999993, DISP: 0.000000)
+234:: ERA{280}:
+0 component: (MEAN: 0.999995, DISP: 0.000000)
+1 component: (MEAN: 0.999989, DISP: 0.000000)
+234:: ERA{281}:
+0 component: (MEAN: 0.999993, DISP: 0.000000)
+1 component: (MEAN: 0.999986, DISP: 0.000000)
+234:: ERA{282}:
+0 component: (MEAN: 0.999997, DISP: 0.000000)
+1 component: (MEAN: 0.999994, DISP: 0.000000)
+234:: ERA{283}:
+0 component: (MEAN: 0.999997, DISP: 0.000000)
+1 component: (MEAN: 0.999994, DISP: 0.000000)
+234:: ERA{284}:
+0 component: (MEAN: 0.999996, DISP: 0.000000)
+1 component: (MEAN: 0.999993, DISP: 0.000000)
+234:: ERA{285}:
+0 component: (MEAN: 0.999990, DISP: 0.000000)
+1 component: (MEAN: 0.999979, DISP: 0.000000)
+234:: ERA{286}:
+0 component: (MEAN: 0.999990, DISP: 0.000000)
+1 component: (MEAN: 0.999979, DISP: 0.000000)
+234:: ERA{287}:
+0 component: (MEAN: 0.999990, DISP: 0.000000)
+1 component: (MEAN: 0.999979, DISP: 0.000000)
+234:: ERA{288}:
+0 component: (MEAN: 0.999995, DISP: 0.000000)
+1 component: (MEAN: 0.999989, DISP: 0.000000)
+234:: ERA{289}:
+0 component: (MEAN: 0.999995, DISP: 0.000000)
+1 component: (MEAN: 0.999989, DISP: 0.000000)
+234:: ERA{290}:
+0 component: (MEAN: 0.999995, DISP: 0.000000)
+1 component: (MEAN: 0.999989, DISP: 0.000000)
+234:: ERA{291}:
+0 component: (MEAN: 0.999997, DISP: 0.000000)
+1 component: (MEAN: 0.999993, DISP: 0.000000)
+234:: ERA{292}:
+0 component: (MEAN: 0.999995, DISP: 0.000000)
+1 component: (MEAN: 0.999989, DISP: 0.000000)
+234:: ERA{293}:
+0 component: (MEAN: 0.999995, DISP: 0.000000)
+1 component: (MEAN: 0.999989, DISP: 0.000000)
+234:: ERA{294}:
+0 component: (MEAN: 0.999995, DISP: 0.000000)
+1 component: (MEAN: 0.999989, DISP: 0.000000)
+234:: ERA{295}:
+0 component: (MEAN: 0.999995, DISP: 0.000000)
+1 component: (MEAN: 0.999990, DISP: 0.000000)
+234:: ERA{296}:
+0 component: (MEAN: 0.999995, DISP: 0.000000)
+1 component: (MEAN: 0.999990, DISP: 0.000000)
+234:: ERA{297}:
+0 component: (MEAN: 0.999996, DISP: 0.000000)
+1 component: (MEAN: 0.999991, DISP: 0.000000)
+234:: ERA{298}:
+0 component: (MEAN: 0.999998, DISP: 0.000000)
+1 component: (MEAN: 0.999997, DISP: 0.000000)
+234:: ERA{299}:
+0 component: (MEAN: 0.999998, DISP: 0.000000)
+1 component: (MEAN: 0.999997, DISP: 0.000000)
+234:: ERA{300}:
+0 component: (MEAN: 1.000001, DISP: 0.000000)
+1 component: (MEAN: 1.000002, DISP: 0.000000)
+234:: ERA{301}:
+0 component: (MEAN: 1.000001, DISP: 0.000000)
+1 component: (MEAN: 1.000002, DISP: 0.000000)
+234:: ERA{302}:
+0 component: (MEAN: 0.999998, DISP: 0.000000)
+1 component: (MEAN: 0.999996, DISP: 0.000000)
+234:: ERA{303}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 0.999999, DISP: 0.000000)
+234:: ERA{304}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 0.999999, DISP: 0.000000)
+234:: ERA{305}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{306}:
+0 component: (MEAN: 1.000001, DISP: 0.000000)
+1 component: (MEAN: 1.000001, DISP: 0.000000)
+234:: ERA{307}:
+0 component: (MEAN: 0.999999, DISP: 0.000000)
+1 component: (MEAN: 0.999998, DISP: 0.000000)
+234:: ERA{308}:
+0 component: (MEAN: 0.999998, DISP: 0.000000)
+1 component: (MEAN: 0.999996, DISP: 0.000000)
+234:: ERA{309}:
+0 component: (MEAN: 0.999999, DISP: 0.000000)
+1 component: (MEAN: 0.999997, DISP: 0.000000)
+234:: ERA{310}:
+0 component: (MEAN: 0.999999, DISP: 0.000000)
+1 component: (MEAN: 0.999998, DISP: 0.000000)
+234:: ERA{311}:
+0 component: (MEAN: 0.999998, DISP: 0.000000)
+1 component: (MEAN: 0.999995, DISP: 0.000000)
+234:: ERA{312}:
+0 component: (MEAN: 0.999998, DISP: 0.000000)
+1 component: (MEAN: 0.999996, DISP: 0.000000)
+234:: ERA{313}:
+0 component: (MEAN: 0.999997, DISP: 0.000000)
+1 component: (MEAN: 0.999994, DISP: 0.000000)
+234:: ERA{314}:
+0 component: (MEAN: 0.999997, DISP: 0.000000)
+1 component: (MEAN: 0.999994, DISP: 0.000000)
+234:: ERA{315}:
+0 component: (MEAN: 0.999998, DISP: 0.000000)
+1 component: (MEAN: 0.999996, DISP: 0.000000)
+234:: ERA{316}:
+0 component: (MEAN: 0.999998, DISP: 0.000000)
+1 component: (MEAN: 0.999996, DISP: 0.000000)
+234:: ERA{317}:
+0 component: (MEAN: 0.999998, DISP: 0.000000)
+1 component: (MEAN: 0.999996, DISP: 0.000000)
+234:: ERA{318}:
+0 component: (MEAN: 0.999997, DISP: 0.000000)
+1 component: (MEAN: 0.999994, DISP: 0.000000)
+234:: ERA{319}:
+0 component: (MEAN: 0.999997, DISP: 0.000000)
+1 component: (MEAN: 0.999994, DISP: 0.000000)
+234:: ERA{320}:
+0 component: (MEAN: 0.999997, DISP: 0.000000)
+1 component: (MEAN: 0.999994, DISP: 0.000000)
+234:: ERA{321}:
+0 component: (MEAN: 0.999997, DISP: 0.000000)
+1 component: (MEAN: 0.999994, DISP: 0.000000)
+234:: ERA{322}:
+0 component: (MEAN: 0.999997, DISP: 0.000000)
+1 component: (MEAN: 0.999994, DISP: 0.000000)
+234:: ERA{323}:
+0 component: (MEAN: 0.999997, DISP: 0.000000)
+1 component: (MEAN: 0.999994, DISP: 0.000000)
+234:: ERA{324}:
+0 component: (MEAN: 0.999999, DISP: 0.000000)
+1 component: (MEAN: 0.999997, DISP: 0.000000)
+234:: ERA{325}:
+0 component: (MEAN: 0.999999, DISP: 0.000000)
+1 component: (MEAN: 0.999999, DISP: 0.000000)
+234:: ERA{326}:
+0 component: (MEAN: 0.999999, DISP: 0.000000)
+1 component: (MEAN: 0.999998, DISP: 0.000000)
+234:: ERA{327}:
+0 component: (MEAN: 0.999999, DISP: 0.000000)
+1 component: (MEAN: 0.999998, DISP: 0.000000)
+234:: ERA{328}:
+0 component: (MEAN: 0.999999, DISP: 0.000000)
+1 component: (MEAN: 0.999998, DISP: 0.000000)
+234:: ERA{329}:
+0 component: (MEAN: 0.999999, DISP: 0.000000)
+1 component: (MEAN: 0.999998, DISP: 0.000000)
+234:: ERA{330}:
+0 component: (MEAN: 0.999999, DISP: 0.000000)
+1 component: (MEAN: 0.999998, DISP: 0.000000)
+234:: ERA{331}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 0.999999, DISP: 0.000000)
+234:: ERA{332}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 0.999999, DISP: 0.000000)
+234:: ERA{333}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000001, DISP: 0.000000)
+234:: ERA{334}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000001, DISP: 0.000000)
+234:: ERA{335}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000001, DISP: 0.000000)
+234:: ERA{336}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{337}:
+0 component: (MEAN: 1.000001, DISP: 0.000000)
+1 component: (MEAN: 1.000002, DISP: 0.000000)
+234:: ERA{338}:
+0 component: (MEAN: 1.000001, DISP: 0.000000)
+1 component: (MEAN: 1.000002, DISP: 0.000000)
+234:: ERA{339}:
+0 component: (MEAN: 1.000001, DISP: 0.000000)
+1 component: (MEAN: 1.000001, DISP: 0.000000)
+234:: ERA{340}:
+0 component: (MEAN: 1.000001, DISP: 0.000000)
+1 component: (MEAN: 1.000001, DISP: 0.000000)
+234:: ERA{341}:
+0 component: (MEAN: 1.000001, DISP: 0.000000)
+1 component: (MEAN: 1.000001, DISP: 0.000000)
+234:: ERA{342}:
+0 component: (MEAN: 1.000001, DISP: 0.000000)
+1 component: (MEAN: 1.000002, DISP: 0.000000)
+234:: ERA{343}:
+0 component: (MEAN: 1.000001, DISP: 0.000000)
+1 component: (MEAN: 1.000002, DISP: 0.000000)
+234:: ERA{344}:
+0 component: (MEAN: 1.000001, DISP: 0.000000)
+1 component: (MEAN: 1.000001, DISP: 0.000000)
+234:: ERA{345}:
+0 component: (MEAN: 1.000001, DISP: 0.000000)
+1 component: (MEAN: 1.000001, DISP: 0.000000)
+234:: ERA{346}:
+0 component: (MEAN: 1.000001, DISP: 0.000000)
+1 component: (MEAN: 1.000001, DISP: 0.000000)
+234:: ERA{347}:
+0 component: (MEAN: 1.000001, DISP: 0.000000)
+1 component: (MEAN: 1.000001, DISP: 0.000000)
+234:: ERA{348}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000001, DISP: 0.000000)
+234:: ERA{349}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000001, DISP: 0.000000)
+234:: ERA{350}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{351}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{352}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{353}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{354}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{355}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{356}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{357}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{358}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{359}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{360}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{361}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{362}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{363}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{364}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{365}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{366}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{367}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{368}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{369}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{370}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000001, DISP: 0.000000)
+234:: ERA{371}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{372}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{373}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{374}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
+234:: ERA{375}:
+0 component: (MEAN: 1.000000, DISP: 0.000000)
+1 component: (MEAN: 1.000000, DISP: 0.000000)
