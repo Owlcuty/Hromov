@@ -169,7 +169,7 @@ errno_t read_open_key(OKey_t* open_key, FILE* fokey)
   assert(open_key);
   assert(fokey);
 
-  if (gmp_fscanf(fokey, "%Zd,%Zd", open_key) != 2)
+  if (gmp_fscanf(fokey, "%Zd,%Zd", open_key->e, open_key->n) != 2)
   {
     errno = EINVAL;
     perror("open_key");
@@ -184,7 +184,7 @@ errno_t read_close_key(CKey_t* close_key, FILE* fckey)
   assert(close_key);
   assert(fckey);
 
-  if (gmp_fscanf(fckey, "%Zd,%Zd", close_key) != 2)
+  if (gmp_fscanf(fckey, "%Zd,%Zd", close_key->d, close_key->n) != 2)
   {
     errno = EINVAL;
     perror("close_key");
@@ -209,7 +209,7 @@ errno_t encrypt(char* origin, const OKey_t open_key, FILE* fout)
   {
     mpz_set_ui(m, origin[chr]);
     mpz_powm(encrypted, m, open_key.e, open_key.n);
-    gmp_fprintf(fout, "%Zd", encrypted);
+    gmp_fprintf(fout, "%Zd ", encrypted);
   }
 
   mpz_clear(encrypted);
@@ -217,7 +217,7 @@ errno_t encrypt(char* origin, const OKey_t open_key, FILE* fout)
   return 0;
 }
 
-errno_t decrypt(FILE* fin, const CKey_t close_key, char* to_orig, const size_t to_len)
+size_t decrypt(FILE* fin, const CKey_t close_key, char* to_orig, const size_t to_len)
 {
   assert(fin);
   assert(to_orig);
@@ -226,21 +226,17 @@ errno_t decrypt(FILE* fin, const CKey_t close_key, char* to_orig, const size_t t
   mpz_t tmp;
   mpz_init(tmp);
 
-  while (feof(fin) != EOF && now < to_len)
+  while (!feof(fin) && now < to_len)
   {
-    gmp_fscanf(fin, "%Zd", tmp);
+    if (!gmp_fscanf(fin, "%Zd", tmp))
+      break;
     mpz_powm(tmp, tmp, close_key.d, close_key.n);
     to_orig[now] = mpz_get_ui(tmp);
     now ++;
   }
 
-  if (now < to_len)
-  {
-    return -1;
-  }
-
   mpz_clear(tmp);
-  return 0;
+  return now;
 }
 
 errno_t parser_flags(const int argc, char* argv[], int* flag, char* ffrom_name, char* fto_name)
@@ -327,10 +323,11 @@ errno_t run(const int flag, FILE* ffrom, FILE* fto)
   size_t ffrom_len = 0;
 
   char* orig_from = NULL;
+  size_t orig_len;
 
-  fseek(ffrom, 0, SEEK_SET);
-  ffrom_len = ftell(ffrom);
   fseek(ffrom, 0, SEEK_END);
+  ffrom_len = ftell(ffrom);
+  fseek(ffrom, 0, SEEK_SET);
 
   switch (flag)
   {
@@ -347,7 +344,7 @@ errno_t run(const int flag, FILE* ffrom, FILE* fto)
       }
       read_open_key(&open_key, fokey);
 
-      orig_from = (char*)calloc(ffrom_len, sizeof(*orig_from));
+      orig_from = (char*)calloc(ffrom_len + 1, sizeof(*orig_from));
       if (!orig_from)
       {
         errno = ENOMEM;
@@ -356,6 +353,8 @@ errno_t run(const int flag, FILE* ffrom, FILE* fto)
       }
       fread(orig_from, ffrom_len, sizeof(char), ffrom);
       encrypt(orig_from, open_key, fto);
+
+      free(orig_from);
 
       break;
     case Decryption_f:
@@ -375,7 +374,10 @@ errno_t run(const int flag, FILE* ffrom, FILE* fto)
         perror("orig_from");
         return errno;
       }
-      decrypt(ffrom, close_key, orig_from, ffrom_len);
+      orig_len = decrypt(ffrom, close_key, orig_from, ffrom_len);
+      fwrite(orig_from, orig_len - 1, sizeof(char), fto);
+
+      free(orig_from);
 
       break;
     default:

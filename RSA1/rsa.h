@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 #include <math.h>
 #include <gmp.h>
 #include <assert.h>
@@ -36,7 +37,7 @@ errno_t gen_keys(OKey_t* open_key, CKey_t* close_key, FILE* fdata);
 errno_t read_open_key(OKey_t* open_key, FILE* fokey);
 errno_t read_close_key(CKey_t* close_key, FILE* fckey);
 errno_t encrypt(char* origin, const OKey_t open_key, FILE* fout);
-errno_t decrypt(FILE* fin, const CKey_t close_key, char* to_orig, const size_t to_len);
+size_t decrypt(FILE* fin, const CKey_t close_key, char* to_orig, const size_t to_len);
 errno_t parser_flags(const int argc, char* argv[], int* flag, char* ffrom_name, char* fto_name);
 errno_t run(const int flag, FILE* ffrom, FILE* fto);
 

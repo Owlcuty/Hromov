@@ -20,7 +20,7 @@ int main(int argc, char* argv[])
     return errno;
   }
 
-  FILE* fto = fopen((const char*)fto_name, "w");
+  FILE* fto = fopen((const char*)fto_name, "wb");
   if (!fto && flag != Generation_f)
   {
     errno = ENOENT;
