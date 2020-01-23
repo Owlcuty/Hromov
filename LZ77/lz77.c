@@ -18,8 +18,6 @@ errno_t archive(char* orig, size_t olen, FILE* fout)
   char* overlap = NULL;
   char* tmp_start = NULL;
 
-  size_t TESTLEN = 0;
-
   for (int now = 0; now < olen; now ++)
   {
     memcpy(search_buf,
@@ -27,7 +25,6 @@ errno_t archive(char* orig, size_t olen, FILE* fout)
            (int)fmin(now, Search_Buf_Size));
     while (tmp_p = (char*)memmem(search_buf, (int)fmin(now, Search_Buf_Size), orig + now, nodes[now].length + 1))
     {
-        printf("%i:: --START TESTLEN { %zu }" "\n", __LINE__, TESTLEN);
         overlap = tmp_p;
         for (int lol = 0; lol < (int)fmin(now, Search_Buf_Size); lol++)
         {
@@ -46,17 +43,9 @@ errno_t archive(char* orig, size_t olen, FILE* fout)
       nodes[now].offset = (int)fmin(now, Search_Buf_Size) - (int)(overlap - search_buf);
     }
     nodes[now].next = orig[now + nodes[now].length];
-    if (!nodes[now].next)
-    {
-      printf("%i::%d ------------------------------------" "\n", __LINE__, now + nodes[now].length);
-      printf("%i:: Nodes{ %d; %d; %c}" "\n", __LINE__, nodes[now].offset, nodes[now].length, nodes[now].next);
-      printf("%i:: NodesBefore{ %c }" "\n", __LINE__, orig[now - nodes[now].offset]);
-    }
     fwrite(&nodes[now], 1, sizeof(Node_t), fout);
   printf("%i:: NODE[%zu]: offset{%zu}, len{%zu}, next{%c}" "\n", __LINE__, now, nodes[now].offset, nodes[now].length, nodes[now].next);
     now += nodes[now].length;
-    TESTLEN += nodes[now].length + 1;
-    printf("%i:: --END TESTLEN { %zu }" "\n", __LINE__, TESTLEN);
   }
 
   free(search_buf);
@@ -92,7 +81,10 @@ errno_t unarchive(FILE* fin, FILE* fout)
 
   for (size_t now = 0; now < node_len; now ++)
   {
-    orig_len += nodes[now].length + !(!nodes[now].next);
+    if (!nodes[now].next && now > node_len - 5)
+      orig_len += nodes[now].length;
+    else
+      orig_len += nodes[now].length + 1;
   }
 
   printf("%i:: (orig_len) %zu" "\n", __LINE__, orig_len);

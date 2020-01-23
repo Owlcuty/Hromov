@@ -1,32 +1,44 @@
-struct Stud
+#include <stdio.h>
+#include <malloc.h>
+#include <string.h>
+#include <assert.h>
+#include <errno.h>
+
+typedef int errno_t;
+
+typedef struct
 {
    char *first_name, *last_name;
    int year, month, day;
    double av_grade;
-   struct stud *next;
+   void *next;
+   int id;
+} Stud_t;
+
+enum TypeEnter
+{
+  FileEnter_t,
+  StdinEnter_t
 };
 
-Stud* read_data(FILE* fdata)
+enum Action
 {
-  long int file_len = 0;
+  ReadCSV,
+  WriteCSV,
+  DropBD,
+  AddData,
+  DeleteStudent,
+  FindStudent,
+  ExitAct
+};
 
-  // if (fseek..)
-    fseek(fdata, 0, SEEK_END);
+extern const int MAX_NAME;
 
-  // if (ftell..)
-    file_len = ftell(fdata);
-
-  // if (fseek..)
-    fseek(fdata, 0, SEEK_SET);
-
-  char* data = (char*)(calloc(file_len, sizeof(*data)));
-
-  size_t num_stud = 0;
-
-  sscanf(data, "%zu", &num_stud);
-
-  for (size_t stud = 0; stud < num_stud; stud ++)
-  {
-
-  }
-}
+Stud_t* read_data(FILE* fdata, int* num_st, int start_id);
+errno_t write_csv(FILE* fout, Stud_t* studs, int num_st);
+errno_t dump_bd(Stud_t* studs);
+void dump_student(Stud_t* stud);
+errno_t addafter_stud(Stud_t* stud, int* num_st, FILE* fdata, int type);
+errno_t deleteAfter(Stud_t* before, int* num_st);
+errno_t find_stud_byLN(Stud_t* studs_bd, Stud_t** student, const char* last_name);
+errno_t run();

@@ -9,8 +9,8 @@ typedef int errno_t;
 
 typedef struct
 {
-  unsigned int offset;
-  unsigned int length;
+  short offset;
+  short length;
   char next;
 } Node_t;
 
